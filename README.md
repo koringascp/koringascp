@@ -1,6 +1,6 @@
 
 
-## Oii, eu sou <a href="https://google.com" target="_blank">Saiyd>!
+## Oii, eu sou <a href="https://google.com" target="_blank">Saiyd!
 
 
 
