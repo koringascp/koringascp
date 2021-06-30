@@ -1,8 +1,6 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
-<br/>
-<br/>
 
-## Oii, eu sou <a href="https://aakarsh.me" target="_blank">Saiyd/a>!
+
+## Oii, eu sou <a href="https://google.com" target="_blank">Saiyd/a>!
 
 
 
@@ -40,4 +38,4 @@
 <br/>
 ---
 
-[![Saiyd github stats](https://github-readme-stats.vercel.app/api?username=koringascp-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Saiyd github stats](https://github-readme-stats.vercel.app/api?username=koringascp&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
